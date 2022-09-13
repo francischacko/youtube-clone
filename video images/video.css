@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    /* box-sizing: border-box; */
+    font-family: 'roboto' sans-serif;
+}
+p {
+    font-family: Roboto, Arial;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+.box{
+    padding-top: 60px;
+    padding-left: 78px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 15px;
+    /* width: 100%; */
+    row-gap: 20px;
+    cursor: pointer;
+}
+
+.box1details{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+.box2details{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+.box3details{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+.box4details{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+.box5details{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+.box6details{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+.box7details{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+.box8details{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+}
+.futdp{
+    width: 50px;
+    border-radius: 25px;
+}
+.tutdp{
+    width: 50px;
+    border-radius: 25px;
+}
+.jaidp{
+    width: 50px;
+    border-radius: 25px;
+}
+.restdp{
+    width: 50px;
+    border-radius: 25px;
+}
+.napdp{
+    width: 50px;
+    border-radius: 25px;
+}
+.tomdp{
+    width: 50px;
+    border-radius: 25px;
+}
+.modidp{
+    width: 50px;
+    border-radius: 25px;
+}
+.dqdp{
+    width: 50px;
+    border-radius: 25px;
+}
+.fut{
+    width: 100%;
+}
+.tut{
+    width: 100%;
+}
+.jai{
+    width: 100%;
+}
+.rest{
+    width: 100%;
+}
+.napoli{
+    width: 100%;
+}
+.tom{
+    width: 100%;
+}
+.modi{
+    width: 100%;
+}
+.dq{
+    width: 100%;
+}
+.h{
+    font-family: roboto,Arial;
+    font-weight: bold;
+}
+.subh{
+    padding-top: 8px;
+    font-size: 15px;
+    font-weight: 600;
+    color: rgb(66, 57, 57);
+    letter-spacing: 0;
+}
